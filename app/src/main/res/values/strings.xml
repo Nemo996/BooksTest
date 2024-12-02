@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="error_message">Some error occured</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading...</string>
+    <string name="title">Title: %s</string>
+    <string name="authors">Autors: %s</string>
+    <string name="year">Year: %s</string>
+</resources>
