@@ -1,0 +1,1 @@
+Simple solution. In the future, data, repository and usecase packags can be seporate modules and fiture modules with presentation and ui logic. UI in this version sa simple as it can be. Also, may be better have some BaseViewModel with CompositDisposable for common solution 
